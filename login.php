@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
 
 <header>
-    <h1 class="text-center my-4">Daily Journal Login</h1>
+    <h1 class="text-center my-4">Welcome to my Daily Journal</h1>
 </header>
 
 <main class="container">
